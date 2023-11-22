@@ -8,7 +8,6 @@ Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolu
 Python
 Pandas
 MongoDB
-Plotly
 PowerBI
 
 **Installation**
@@ -18,7 +17,6 @@ To run this project, you need to install the following packages:
 ```python
 pip install pandas
 pip install pymongo
-pip install plotly
 
 **Aim of the project**
 
